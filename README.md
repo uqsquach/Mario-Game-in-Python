@@ -20,7 +20,7 @@ Run the game:
 - GUI programming.
 
 # Current State
-<img src="https://github.com/uqsquach/Mario-Game-in-Python/blob/main/images/1.png" length="100" width="350">   
-<img src="https://github.com/uqsquach/Mario-Game-in-Python/blob/main/images/2.png" length="150" width="350">
+<img src="https://github.com/uqsquach/Mario-Game-in-Python/blob/main/images/1.png" length="100" width="450">   
+<img src="https://github.com/uqsquach/Mario-Game-in-Python/blob/main/images/2.png" length="150" width="450">
 
 
