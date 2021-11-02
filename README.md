@@ -1,5 +1,6 @@
 # Mario-Game-in-Python
-This is a 2D style Mario Game written in Python using tkinter
+This is a 2D style Mario Game written in Python using tkinter.
+This project was implemented during the time of taking a course in Univerysity of Queensland.
 
 # Running
 Install python:
