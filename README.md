@@ -2,10 +2,10 @@
 This is a 2D style Mario Game written in Python using tkinter
 
 # Running
-  Install python:
+Install python:
 - $pip install py2exe
 
-  Run the game:
+Run the game:
 - $python MarioApp.py
 
 # Controls
