@@ -15,10 +15,12 @@ Run the game:
 - Jump:   W, UP, SPACE
 - Down:   S, DOWN
 
+# Dependencies
+- Pymunk Library for Physics of the game.
+- GUI programming.
+
 # Current State
 <img src="https://github.com/uqsquach/Mario-Game-in-Python/blob/main/images/1.png" length="100" width="350">   
 <img src="https://github.com/uqsquach/Mario-Game-in-Python/blob/main/images/2.png" length="150" width="350">
 
-# Dependencies
-- Pymunk Library for Physics of the game.
-- GUI programming.
+
