@@ -1,1 +1,1 @@
-# Mario-game-in-Python
+# Mario-Game-in-Python
