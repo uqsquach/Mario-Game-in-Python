@@ -7,7 +7,7 @@ from game.util import get_collision_direction
 __author__ = "Jason Quach"
 __date__ = ""
 __version__ = "1.1.0"
-__copyright__ = "The University of Queensland, 2019"
+
 
 import time
 import math
