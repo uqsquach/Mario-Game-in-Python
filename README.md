@@ -9,10 +9,11 @@ Run the game:
 - $python MarioApp.py
 
 # Controls
-- Left: 'A' button
-- Right: 'D' button
-- Jump: 'W' button
-- Down: 'S' button
+  
+- Left:   A, LEFT
+- Right:  D, RIGHT
+- Jump:   W, UP, SPACE
+- Down:   S, DOWN
 
 # Current State
 <img src="https://github.com/uqsquach/Mario-Game-in-Python/blob/main/images/1.png" length="100" width="350">   
