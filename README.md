@@ -15,4 +15,4 @@ This is a 2D style Mario Game written in Python using tkinter
 - Down: 'S' button
 
 # Current State
-![alt text](https://github.com/uqsquach/Mario-Game-in-Python/blob/main/images/1.png|width=50)
+![alt text](https://github.com/uqsquach/Mario-Game-in-Python/blob/main/images/1.png | width=50)
