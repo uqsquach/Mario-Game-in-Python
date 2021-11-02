@@ -16,4 +16,9 @@ This is a 2D style Mario Game written in Python using tkinter
 
 # Current State
 <img src="https://github.com/uqsquach/Mario-Game-in-Python/blob/main/images/1.png" width="350">   <img src="https://github.com/uqsquach/Mario-Game-in-Python/blob/main/images/2.png" padding=3  width="350">
+img {
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
 
