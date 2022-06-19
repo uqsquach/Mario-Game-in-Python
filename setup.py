@@ -1,23 +1,3 @@
-"""
-Installs dependencies for the CSSE1001 Game Engine
-
-If running this file produces an error, try:
-    1. running IDLE as an administrator
-    2. opening this file in IDLE
-    3. run this file
-
-Alternative for Windows:
-    1. Open Command Prompt as Administrator
-    2. Change directory to setup.py folder (in command prompt)
-        cd /d "full/path/to/folder"
-    3. Run one of the following
-        a. setup.py
-        b. py setup.py
-        c. python setup.py
-
-If that doesn't resolve the issue, please post to Piazza
-"""
-
 __version__ = "1.1.0"
 
 import sys
